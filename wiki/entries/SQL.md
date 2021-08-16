@@ -1,0 +1,1 @@
+SQL is a domain-specific language used in programming.
